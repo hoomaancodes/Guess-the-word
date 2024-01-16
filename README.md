@@ -19,7 +19,7 @@ Welcome to the **Guess the Word** game! This web-based game challenges users to 
 - Real-time feedback on letter guesses.
 - Limited guesses to increase the challenge.
 
-## Website
+## Live Preview
 Visit the website - [Guess-the-Word](https://guess-the-word-beta-three.vercel.app/)
 
 ## Technologies Used
